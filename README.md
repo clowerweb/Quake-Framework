@@ -5,6 +5,8 @@ Quake Framework utilizes some of the best frameowrks available today, seamlessly
 
 Please note that this is a framework and **not** a website system. All included libraries and frameworks are almost completely unconfigured default versions, with the exception of what was required for integration.
 
+Quake Framework uses CodeIgniter for back end development, and a combination of Twitter Bootstrap (responsive version using LESS, with Font Awesome already configured for icons), HTML5 Boilerplate, jQuery and jQuery UI for the front end. It also sports Bootstrap themes for jQuery UI and tinyMCE for consistency, and Modernizr for better cross-browser compatibility (Modernizr and HTML5 Boilerplate are implemented via Initializr and already configured). TinyMCE is preconfigured to utilize the main stylesheet, and also has the CodeMagic plugin installed, which uses CodeMirror so that the tinyMCE HTML editor has syntax highlighting and code hinting, as well as preservation for code indentation. Highstocks is also included for charting/graphing data.
+
 
 
 What's Inside
