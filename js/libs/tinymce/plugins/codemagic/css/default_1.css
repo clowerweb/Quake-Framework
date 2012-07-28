@@ -1,0 +1,26 @@
+span.css-at {color: #0000ff;}
+span.css-unit {color: #fff;} /* Good */
+span.css-value {color: #C0F; font-weight: bold;} /* Good */
+span.css-identifier {color: #fC0;} /* Good */
+span.css-selector {color: #C0F; font-weight: bold;} /* Good */
+span.css-important {color: #F00; font-weight: bold;} /* Good */
+span.css-colorcode {color: #0CF;}
+span.css-comment {color: #75715e;} /* Good */
+span.css-string {color: #e6db74;} /* Good */
+
+span.js-keyword {color: #f92672; font-weight: bold;}
+span.js-variable {color: #a6e22e;}
+span.js-property {color: #a6e22e; font-weight: bold;}
+span.js-atom {color: #ae81ff;}
+span.js-variabledef {color: #fd971f;}
+span.js-localvariable {color: #9effff;}
+span.js-comment {color: #75715e;}
+span.js-string {color: #e6db74;}
+
+span.xml-tag {color: #a6e22e; font-weight: bold;}
+span.xml-attribute {color: #a6e22e;}
+span.xml-attname {color: #f92672;}
+span.xml-comment {color: #75715e;}
+span.xml-cdata {color: #48a;}
+span.xml-processing {color: #fff;}
+span.xml-entity {color: #e25c49; font-weight: bold;}

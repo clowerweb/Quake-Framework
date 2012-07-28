@@ -1,0 +1,123 @@
+/* the humans responsible & colophon */
+/* humanstxt.org */
+
+
+/* TEAM */
+  Developer: Chris Clower
+  Site: http://www.clowerweb.com/
+  Location: Youngstown, Ohio
+
+/* THANKS */
+  Names (& URL):
+	CodeIgniter (http://codeigniter.com/),
+	Twitter Bootstrap (http://twitter.github.com/bootstrap/),
+	Font Awesome (http://fortawesome.github.com/Font-Awesome/),
+	HTML 5 Boilerplate (http://html5boilerplate.com/),
+	Initializr (http://www.initializr.com/),
+	Modernizr (http://modernizr.com/),
+	jQuery (http://jquery.com/),
+	jQuery UI (http://jqueryui.com/),
+	HighCharts (http://www.highcharts.com/),
+	GlyphIcons (http://glyphicons.com/),
+	tinymce (http://www.tinymce.com/),
+	CodeMirror (http://codemirror.net/),
+	CodeMagic (http://codemagic.sutulustus.com/),
+	Google Prettify (http://code.google.com/p/google-code-prettify/),
+	Google Adsense (https://www.google.com/adsense/),
+	RobotsTXT (http://www.robotstxt.org/),
+	humans.txt (http://humanstxt.org/),
+	LESS (http://lesscss.org/),
+	Crunch! (http://crunchapp.net/),
+	Addy Osmani - Bootstrap theme for jQuery UI (http://addyosmani.github.com/jquery-ui-bootstrap/),
+	Cirkuit - tinymce skin (http://www.cirkuit.net/projects/tinymce/cirkuitSkin/),
+	FamFamFam - (http://www.famfamfam.com/),
+	PhpStorm (http://www.jetbrains.com/phpstorm/),
+	Jeff Behnke - CodeIgniter code hinting for PhpStorm (http://validwebs.com/346/code-completion-for-codeigniter-in-phpstorm/),
+	JSHint (http://www.jshint.com/),
+	JSLint (http://www.jslint.com/),
+	Smush.it (http://www.smushit.com/ysmush.it/),
+	Kuler (http://kuler.adobe.com/),
+	CSS Compressor (http://www.csscompressor.com/),
+	YUI Compressor (http://refresh-sf.com/yui/),
+	Javascript Compressor (http://javascriptcompressor.com/),
+	Javascript Obfuscator (http://javascriptobfuscator.com/),
+	jscrambler (http://jscrambler.com/),
+	JSFiddle (http://jsfiddle.net/),
+	PHP (http://www.php.net/),
+	MySQL (http://www.mysql.com/),
+	Apache (http://www.apache.org/),
+	Linux (http://www.linux.org/),
+	WAMP (http://www.wampserver.com/),
+	MediaTemple (http://mediatemple.net/),
+	CloudFlare (https://www.cloudflare.com/),
+	Pingdom Tools (http://tools.pingdom.com/),
+	Google Analytics (http://www.google.com/analytics/),
+	Adobe Fireworks CS5 (http://www.adobe.com/products/fireworks.html),
+	IETester (http://www.my-debugbar.com/wiki/IETester/HomePage),
+	Stack Overflow (http://stackoverflow.com/),
+	Google (https://www.google.com/)
+
+/* SITE */
+  Standards: HTML5, CSS3
+  Components:
+    Initializr 3.0 (responsive),
+    Modernizr 2.5.3,
+    jQuery 1.7.2,
+    jQuery UI 1.8.21 (with ALL plugins),
+    Bootstrap theme for jQuery UI 0.23,
+    Codeigniter 2.1.2,
+    Twitter Bootstrap 2.0.4,
+    HTML5 Boilerplate 3.0.3,
+    Highstock 1.1.6,
+    LESS,
+    Font Awesome 2.0.0,
+    tinymce 3.5.6 (jQuery edition),
+    CodeMirror 2.32,
+    Codemagic,
+    Cirkuit,
+    Google Prettify June 2011
+    GlyphIcons,
+    FamFamFam Silk Icons 1.3
+
+  Software:
+    Google Chrome (primary),
+    Firefox (for testing),
+    Opera (for testing),
+    Safari (for testing),
+    IE (for testing),
+    Adobe Fireworks,
+    Jetbrains PhpStorm,
+    LAMP,
+    Crunch!,
+    JSHint,
+    JSLint,
+    Smush.it,
+    Google Analytics,
+    IETester,
+    WAMP
+
+
+
+                               -o/-
+                               +oo//-
+                              :ooo+//:
+                             -ooooo///-
+                             /oooooo//:
+                            :ooooooo+//-
+                           -+oooooooo///-
+           -://////////////+oooooooooo++////////////::
+            :+ooooooooooooooooooooooooooooooooooooo+:::-
+              -/+ooooooooooooooooooooooooooooooo+/::////:-
+                -:+oooooooooooooooooooooooooooo/::///////:-
+                  --/+ooooooooooooooooooooo+::://////:-
+                     -:+ooooooooooooooooo+:://////:--
+                       /ooooooooooooooooo+//////:-
+                      -ooooooooooooooooooo////-
+                      /ooooooooo+oooooooooo//:
+                     :ooooooo+/::/+oooooooo+//-
+                    -oooooo/::///////+oooooo///-
+                    /ooo+::://////:---:/+oooo//:
+                   -o+/::///////:-      -:/+o+//-
+                   :-:///////:-            -:/://
+                     -////:-                 --//:
+                       --                       -:

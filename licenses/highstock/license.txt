@@ -1,0 +1,9 @@
+Non-commercial - Free
+
+Do you want to use Highstock for a personal or non-profit project? Then you can use Highstock for free under the Creative Commons Attribution-NonCommercial 3.0 License.
+
+For non-profit organizations, students, universities, public schools and non-commercial personal websites
+For developing and testing applications using Highstock
+Source editing allowed
+
+http://creativecommons.org/licenses/by-nc/3.0/

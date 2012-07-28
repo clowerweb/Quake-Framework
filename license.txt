@@ -1,0 +1,3 @@
+Quake Framework currently does not have a license, so it is public domain, but this 
+is subject to change without notice in future revisions of the project. All respective 
+licenses for works used can be found in the /licenses folder.
