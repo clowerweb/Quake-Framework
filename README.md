@@ -16,8 +16,8 @@ As of version 0.1.0, included libraries/frameworks are:
 
 + **Initializr 3.0 (responsive)** - http://www.initializr.com/
 + **Modernizr 2.5.3** - http://modernizr.com/ - (as included with Initializr)
-+ **jQuery 1.7.2** - http://jquery.com/
-+ **jQuery UI 1.8.21 (with ALL plugins)** - http://jqueryui.com/
++ **jQuery 1.8.0** - http://jquery.com/
++ **jQuery UI 1.8.23 (with ALL plugins)** - http://jqueryui.com/
 + **Bootstrap theme for jQuery UI 0.23** - http://addyosmani.github.com/jquery-ui-bootstrap/
 + **Codeigniter 2.1.2** - http://codeigniter.com/
 + **Twitter Bootstrap 2.0.4** - http://twitter.github.com/bootstrap/
