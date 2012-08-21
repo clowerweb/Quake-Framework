@@ -12,7 +12,7 @@ Quake Framework uses CodeIgniter for back end development, and a combination of 
 What's Inside
 -------------
 
-As of version 0.1.0, included libraries/frameworks are:
+As of version 0.1.3, included libraries/frameworks are:
 
 + **Initializr 3.0 (responsive)** - http://www.initializr.com/
 + **Modernizr 2.5.3** - http://modernizr.com/ - (as included with Initializr)
