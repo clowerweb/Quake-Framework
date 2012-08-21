@@ -1,0 +1,9 @@
+Version 0.1.1 - 0.1.4 (Aug. 21, 2012)
+    - Updated from jQuery 1.7.2 to 1.8.0
+    - Updated from jQuery UI 1.8.22 to 1.8.23
+    - Removed predefined encryption key in CodeIgniter config
+    - Fixed Boostrap modal overflow bug in Chrome
+    - Added changelog
+
+Version 0.1.0
+    - Initial implementation and integration of resources
