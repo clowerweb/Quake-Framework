@@ -15,7 +15,7 @@ What's Inside
 As of version 0.1.6, included libraries/frameworks are:
 
 + **Initializr 3.0 (responsive)** - http://www.initializr.com/
-+ **Modernizr 2.6.1** - http://modernizr.com/ - (as included with Initializr)
++ **Modernizr 2.6.1** - http://modernizr.com/
 + **jQuery 1.8.0** - http://jquery.com/
 + **jQuery UI 1.8.23 (with ALL plugins)** - http://jqueryui.com/
 + **Bootstrap theme for jQuery UI 0.23** - http://addyosmani.github.com/jquery-ui-bootstrap/
