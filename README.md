@@ -12,12 +12,14 @@ Quake Framework uses CodeIgniter for back end development, and a combination of 
 What's Inside
 -------------
 
-As of version 0.1.6, included libraries/frameworks are:
+As of version 0.1.2, included libraries/frameworks are:
 
 + **Initializr 3.0 (responsive)** - http://www.initializr.com/
 + **Modernizr 2.6.1** - http://modernizr.com/
 + **jQuery 1.8.0** - http://jquery.com/
 + **jQuery UI 1.8.23 (with ALL plugins)** - http://jqueryui.com/
++ **jQuery TotalStorage** - https://github.com/jarednova/jquery-total-storage - (Plugin for local storage)
++ **jQuery Cookie** - https://github.com/carhartl/jquery-cookie - (Total Storage falls back on this in browsers that don't support local storage)
 + **Bootstrap theme for jQuery UI 0.23** - http://addyosmani.github.com/jquery-ui-bootstrap/
 + **Codeigniter 2.1.2** - http://codeigniter.com/
 + **Twitter Bootstrap 2.1.0** - http://twitter.github.com/bootstrap/
@@ -26,9 +28,9 @@ As of version 0.1.6, included libraries/frameworks are:
 + **LESS 1.3.0** - http://lesscss.org/ - (as included with Twitter Bootstrap)
 + **Font Awesome 2.0.0** - http://fortawesome.github.com/Font-Awesome/
 + **tinymce 3.5.6 (jQuery edition)** - http://www.tinymce.com/
++ **Cirkuit 0.5** - http://www.cirkuit.net/projects/tinymce/cirkuitSkin/ (Boostrap-like theme for tinyMCE)
 + **CodeMirror 2.32** - http://codemirror.net/
 + **Codemagic** - http://codemagic.sutulustus.com/
-+ **Cirkuit 0.5** - http://www.cirkuit.net/projects/tinymce/cirkuitSkin/
 + **Google Prettify (June 2011)** - http://code.google.com/p/google-code-prettify/ - (as included with Twitter Bootstrap)
 + **GlyphIcons 1.6** - http://glyphicons.com/ - (as included with Twitter Bootstrap)
 + **FamFamFam Silk Icons 1.3** - http://www.famfamfam.com/ - (as included with Cirkuit)
@@ -76,8 +78,10 @@ Authors
 
 **Chris Clower**
 
++ http://clowerweb.com/
 + http://twitter.com/clowerweb
 + http://github.com/clowerweb
++ chris@clowerweb.com or clowerweb@fullsail.edu
 
 
 
