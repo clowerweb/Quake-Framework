@@ -1,4 +1,4 @@
-Version 0.1.5
+Version 0.1.5 (Aug. 23, 2012)
 	- Updated Twitter Bootstrap 2.0.3 to 2.1.0
 
 Version 0.1.1 - 0.1.4 (Aug. 21, 2012)
@@ -8,5 +8,5 @@ Version 0.1.1 - 0.1.4 (Aug. 21, 2012)
     - Fixed Boostrap modal overflow bug in Chrome
     - Added changelog
 
-Version 0.1.0
+Version 0.1.0 (Jul. 28, 2012)
     - Initial implementation and integration of resources
