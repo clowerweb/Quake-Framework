@@ -1,5 +1,6 @@
-Version 0.1.5 (Aug. 23, 2012)
+Version 0.1.5 - 0.1.6 (Aug. 23, 2012)
 	- Updated Twitter Bootstrap 2.0.3 to 2.1.0
+	- Updated Modernizr 2.5.3 to 2.6.1
 
 Version 0.1.1 - 0.1.4 (Aug. 21, 2012)
     - Updated from jQuery 1.7.2 to 1.8.0
