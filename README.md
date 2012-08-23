@@ -12,7 +12,7 @@ Quake Framework uses CodeIgniter for back end development, and a combination of 
 What's Inside
 -------------
 
-As of version 0.1.4, included libraries/frameworks are:
+As of version 0.1.5, included libraries/frameworks are:
 
 + **Initializr 3.0 (responsive)** - http://www.initializr.com/
 + **Modernizr 2.5.3** - http://modernizr.com/ - (as included with Initializr)
@@ -20,7 +20,7 @@ As of version 0.1.4, included libraries/frameworks are:
 + **jQuery UI 1.8.23 (with ALL plugins)** - http://jqueryui.com/
 + **Bootstrap theme for jQuery UI 0.23** - http://addyosmani.github.com/jquery-ui-bootstrap/
 + **Codeigniter 2.1.2** - http://codeigniter.com/
-+ **Twitter Bootstrap 2.0.4** - http://twitter.github.com/bootstrap/
++ **Twitter Bootstrap 2.1.0** - http://twitter.github.com/bootstrap/
 + **HTML5 Boilerplate 3.0.3** - http://html5boilerplate.com/ - (as included with Initializr)
 + **Highstock 1.1.6** - http://www.highcharts.com/
 + **LESS 1.3.0** - http://lesscss.org/ - (as included with Twitter Bootstrap)
