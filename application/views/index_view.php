@@ -10,7 +10,7 @@
         <meta name="description" content="">
         <meta name="author" content="">
         <meta name="viewport" content="width=device-width">
-        <link rel="stylesheet" type="text/css" href="css/style.css">
+        <link rel="stylesheet" type="text/css" href="./css/style.css">
     </head>
     <body>
         <!--[if lt IE 7]><p class=chromeframe>
@@ -70,10 +70,10 @@
                 g.src=('https:'==location.protocol?'//ssl':'//www')+'.google-analytics.com/ga.js';
                 s.parentNode.insertBefore(g,s)}(document,'script'));*/
         </script>
-        <script type="text/javascript" src="js/libs/modernizr-2.6.1-respond.min.js"></script>
-        <script type="text/javascript" src="js/libs/jquery-1.8.0.min.js"></script>
-        <script type="text/javascript" src="js/libs/bootstrap/bootstrap.min.js"></script>
-        <script type="text/javascript" src="js/libs/tinymce/tiny_mce.js"></script>
-        <script type="text/javascript" src="js/script.js"></script>
+        <script type="text/javascript" src="./js/libs/modernizr-2.6.1-respond.min.js"></script>
+        <script type="text/javascript" src="./js/libs/jquery-1.8.0.min.js"></script>
+        <script type="text/javascript" src="./js/libs/bootstrap/bootstrap.min.js"></script>
+        <script type="text/javascript" src="./js/libs/tinymce/tiny_mce.js"></script>
+        <script type="text/javascript" src="./js/script.js"></script>
     </body>
 </html>
